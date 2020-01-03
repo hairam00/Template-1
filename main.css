@@ -1,0 +1,35 @@
+.navcolor
+{
+    background-color: transparent;
+}
+.coverimg
+{
+    background-image: url("1.jpg");
+    background-image: cover;
+}
+.banner
+{
+    padding: 15%;
+}
+.margin
+{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.team
+{
+    color: gray;
+    font-size: 1rem;
+}
+h6
+{
+    color: gray;
+}
+h1
+{
+    color: skyblue;
+}
+#starter h1
+{
+    color: black;
+}
